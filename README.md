@@ -111,7 +111,7 @@ Integrate group management menu
 Abdallah Badr
 🖥️ Linux & DevOps Enthusiast
 
-📧 abdallahbadr@example.com
+📧 abdallahbadr312@gmail.com
 
 🔗 https://github.com/Abdallahbadr23
 
